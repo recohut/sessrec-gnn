@@ -1,6 +1,12 @@
 
 # Session-based Recommendation with Graph Neural Networks
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RecoHut-Projects/sessrec-gnn/)
+
+[Click here to read the Project report](https://htmlpreview.github.io/?https://github.com/RecoHut-Projects/sessrec-gnn/blob/main/report/sessionrec_gnn_report.html)
+
+
+
 ## Tree
 ```
 .
@@ -42,22 +48,6 @@
 ├── [2.1K]  README.md
 ├── [998K]  report
 │   ├── [932K]  images
-│   │   ├── [ 20K]  Untitled 10.png
-│   │   ├── [ 28K]  Untitled 11.png
-│   │   ├── [ 11K]  Untitled 12.png
-│   │   ├── [ 28K]  Untitled 13.png
-│   │   ├── [ 35K]  Untitled 14.png
-│   │   ├── [ 28K]  Untitled 15.png
-│   │   ├── [126K]  Untitled 1.png
-│   │   ├── [ 81K]  Untitled 2.png
-│   │   ├── [103K]  Untitled 3.png
-│   │   ├── [144K]  Untitled 4.png
-│   │   ├── [ 89K]  Untitled 5.png
-│   │   ├── [ 95K]  Untitled 6.png
-│   │   ├── [ 45K]  Untitled 7.png
-│   │   ├── [9.9K]  Untitled 8.png
-│   │   ├── [ 20K]  Untitled 9.png
-│   │   └── [ 64K]  Untitled.png
 │   └── [ 62K]  sessionrec_gnn_report.html
 └── [745K]  scripts
     ├── [184K]  dgtn
